@@ -28,9 +28,13 @@
     color: white;
     padding: 25px;
     display: grid;
-    grid-template-columns: 300px 900px;
+    grid-template-columns: 300px 2px 900px;
 }
 
+.content-language-middle{
+    background: white;
+    
+}
 .content-language-left{
     background: rgb(75, 74, 74);
     margin-top: 0;
